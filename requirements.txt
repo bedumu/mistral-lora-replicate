@@ -4,3 +4,7 @@ torch
 accelerate
 bitsandbytes
 einops
+
+transformers
+huggingface_hub
+safetensors
